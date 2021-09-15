@@ -1,3 +1,4 @@
 # Calculator_server_client
-<h2>python server.py</h2><br />
-python client.py<br />
+<h4How to Run?</h4><br />
+<h5>python server.py</h5><br />
+<h5>python client.py</h5><br />
